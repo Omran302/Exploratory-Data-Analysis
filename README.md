@@ -9,7 +9,3 @@ This repository will be the home to my projects during T5 Bootcamp.
 
 - Exploratory Data Analysis Project [repository](EDA).
 - Regression Project [repository](Regression).
-
-### Credits:
-- Analyzing NYC MTA subway and demographic data to optimize street team deployment [Article](https://medium.com/@cipher813/analyzing-nyc-subway-and-demographic-data-to-optimize-street-team-deployment-2614522bd83e)
-- [GitHub Repository](https://github.com/cipher813/street_team_optimize)
