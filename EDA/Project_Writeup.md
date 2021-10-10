@@ -1,6 +1,6 @@
 # NYC MTA Subway Demographic Analysis
 
-Abullah AlHuwaishel
+Abdullah Alhuwaishel
 
 Omran Fallatah
 
