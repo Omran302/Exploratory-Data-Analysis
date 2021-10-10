@@ -7,7 +7,7 @@ This repository will be the home to my projects during T5 Bootcamp.
 
 ### Table of Contents:
 
-- Exploratory Data Analysis Project [repository].(EDA)
+- Exploratory Data Analysis Project [repository](EDA).
 - Regression Project [repository](Regression).
 
 ### Credits:
