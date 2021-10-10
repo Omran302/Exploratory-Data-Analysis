@@ -8,7 +8,10 @@ The goal of this project was to use Exploratory Data Analysis to determine the d
 
 ### Table of Contents:
 
+- [Project Proposal](Project_Proposal.ipynb)
 - Exploratory Data Analysis [Code](EDA_Project.ipynb).
+- Exploratory Data Analysis [Presentation](EDA_Presentation.pdf)
+- [Project Writeup](Project_Writeup.md)
 
 
 Installation: Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
