@@ -10,7 +10,7 @@ The goal of this project was to use Exploratory Data Analysis to determine the d
 
 - [Project Proposal](Project_Proposal.ipynb)
 - Exploratory Data Analysis [Code](EDA_Project.ipynb).
-- Exploratory Data Analysis [Presentation](EDA_Presentation.pdf)
+- Exploratory Data Analysis [Presentation](EDA_Presentaion.pdf)
 - [Project Writeup](Project_Writeup.md)
 
 
