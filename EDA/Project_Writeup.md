@@ -20,9 +20,13 @@ The NYC MTA dataset contains 8,375,005 traffic reading with 14 features for each
 ### Algorithms
 
 1- Performed data cleaning.
+
 2- Visualized the data and removed outliers.
+
 3- Aggregated the data by station and ordered by Highest Traffic.
+
 4- Plotted New York Map with the Percentage of people taking public transportation.
+
 5- Located each of the top 5 stations and took a 1-squre mile demographic data around it.
 
 ### Tools
