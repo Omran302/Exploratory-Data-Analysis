@@ -10,7 +10,6 @@ Omran Fallatah
 
 The goal of this project was to use Exploratory Data Analysis to determine the demographic in 1-squre mile around the top 5 busiest station in New York in order to help our clients reach their marking targeted demographic. We worked with data provided by NYC Metropolitan Transportation Authority and The United States Census Bureau to obtain New York city Demographic Data, leveraging data cleaning along with graphs to meet our clients needs while also providing data to back up our findings. After concluding our analysis, We prepared a presentation and plotted our findings to highlight which station is the best fit for each of our clients.
 
-
 ### Design
 
 This project originated from our clients needs to increase their sales. The data is provided by NYC MTA traffic data and the U.S Census Bureau (Specifically NYC Demographic Data). Our team uses NYC MTA data to locate the top 5 busiest stations in NYC in order to have an idea of each station's demographic. After that, our team used the results of our analysis to determine which station would be most suitable for each client.
@@ -21,16 +20,16 @@ The NYC MTA dataset contains 8,375,005 traffic reading with 14 features for each
 
 ### Algorithms
 
-1. Performed data cleaning.
-2. Visualized the data and removed outliers.
-3. Aggregated the data by station and ordered by Highest Traffic.
-4. Plotted New York Map with the Percentage of people taking public transportation.
-5. Located each of the top 5 stations and took a 1-squre mile demographic data around it.
+1.  Performed data cleaning.
+2.  Visualized the data and removed outliers.
+3.  Aggregated the data by station and ordered by Highest Traffic.
+4.  Plotted New York Map with the Percentage of people taking public transportation.
+5.  Located each of the top 5 stations and took a 1-squre mile demographic data around it.
 
 ### Tools
 
-- Numpy and Pandas for data cleaning and manipulation.
-- Matplotlib for plotting.
+-   Numpy and Pandas for data cleaning and manipulation.
+-   Matplotlib for plotting.
 
 ### Communication
 
